@@ -1,0 +1,6 @@
+c:\users\alexandru.erbasu\documents\visual studio 2017\Projects\Test1-6july17\Test1-6july17\bin\Debug\Test1-6july17.exe.config
+c:\users\alexandru.erbasu\documents\visual studio 2017\Projects\Test1-6july17\Test1-6july17\bin\Debug\Test1-6july17.exe
+c:\users\alexandru.erbasu\documents\visual studio 2017\Projects\Test1-6july17\Test1-6july17\bin\Debug\Test1-6july17.pdb
+c:\users\alexandru.erbasu\documents\visual studio 2017\Projects\Test1-6july17\Test1-6july17\obj\Debug\Test1-6july17.csprojResolveAssemblyReference.cache
+c:\users\alexandru.erbasu\documents\visual studio 2017\Projects\Test1-6july17\Test1-6july17\obj\Debug\Test1-6july17.exe
+c:\users\alexandru.erbasu\documents\visual studio 2017\Projects\Test1-6july17\Test1-6july17\obj\Debug\Test1-6july17.pdb

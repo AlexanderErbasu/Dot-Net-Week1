@@ -1,0 +1,6 @@
+c:\users\alexandru.erbasu\documents\visual studio 2017\Projects\App3-6july2017\App3-6july2017\bin\Debug\App3-6july2017.exe.config
+c:\users\alexandru.erbasu\documents\visual studio 2017\Projects\App3-6july2017\App3-6july2017\bin\Debug\App3-6july2017.exe
+c:\users\alexandru.erbasu\documents\visual studio 2017\Projects\App3-6july2017\App3-6july2017\bin\Debug\App3-6july2017.pdb
+c:\users\alexandru.erbasu\documents\visual studio 2017\Projects\App3-6july2017\App3-6july2017\obj\Debug\App3-6july2017.csprojResolveAssemblyReference.cache
+c:\users\alexandru.erbasu\documents\visual studio 2017\Projects\App3-6july2017\App3-6july2017\obj\Debug\App3-6july2017.exe
+c:\users\alexandru.erbasu\documents\visual studio 2017\Projects\App3-6july2017\App3-6july2017\obj\Debug\App3-6july2017.pdb

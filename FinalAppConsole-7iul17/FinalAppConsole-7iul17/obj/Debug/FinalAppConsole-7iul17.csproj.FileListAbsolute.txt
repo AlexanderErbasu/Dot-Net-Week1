@@ -1,0 +1,6 @@
+c:\users\alexandru.erbasu\documents\visual studio 2017\Projects\FinalAppConsole-7iul17\FinalAppConsole-7iul17\bin\Debug\FinalAppConsole-7iul17.exe.config
+c:\users\alexandru.erbasu\documents\visual studio 2017\Projects\FinalAppConsole-7iul17\FinalAppConsole-7iul17\bin\Debug\FinalAppConsole-7iul17.exe
+c:\users\alexandru.erbasu\documents\visual studio 2017\Projects\FinalAppConsole-7iul17\FinalAppConsole-7iul17\bin\Debug\FinalAppConsole-7iul17.pdb
+c:\users\alexandru.erbasu\documents\visual studio 2017\Projects\FinalAppConsole-7iul17\FinalAppConsole-7iul17\obj\Debug\FinalAppConsole-7iul17.csprojResolveAssemblyReference.cache
+c:\users\alexandru.erbasu\documents\visual studio 2017\Projects\FinalAppConsole-7iul17\FinalAppConsole-7iul17\obj\Debug\FinalAppConsole-7iul17.exe
+c:\users\alexandru.erbasu\documents\visual studio 2017\Projects\FinalAppConsole-7iul17\FinalAppConsole-7iul17\obj\Debug\FinalAppConsole-7iul17.pdb
